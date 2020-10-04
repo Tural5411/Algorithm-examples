@@ -1,0 +1,7 @@
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\bin\Debug\BaseAlgoritms.exe.config
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\bin\Debug\BaseAlgoritms.exe
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\bin\Debug\BaseAlgoritms.pdb
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\obj\Debug\BaseAlgoritms.csprojAssemblyReference.cache
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\obj\Debug\BaseAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\obj\Debug\BaseAlgoritms.exe
+C:\Users\Tural\source\repos\BaseAlgoritms\BaseAlgoritms\obj\Debug\BaseAlgoritms.pdb
